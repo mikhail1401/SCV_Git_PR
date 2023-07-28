@@ -94,7 +94,7 @@ git remote add origin <link>
 git push --set-upstream origin <branch name>
 git push -u -origin <branch name>
 ```
-origin = <remote repository name>
+NB: it can be any repository name instead of origin
 
 ## 13. To fetch and merge changes from a remote repositrory into your local branch, use this command:
 ```
